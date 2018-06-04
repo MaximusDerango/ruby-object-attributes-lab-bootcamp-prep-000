@@ -8,10 +8,10 @@ class Person
   end
   
   def name
-    puts @name
+    @name
   end
   
   def job
-    puts @job
+    @job
   end
 end
