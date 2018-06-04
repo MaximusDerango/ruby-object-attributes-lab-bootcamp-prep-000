@@ -15,6 +15,6 @@ class Dog
   end
   
   def breed
-    put @breed
+    puts @breed
   end
 end
